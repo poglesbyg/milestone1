@@ -1,0 +1,8 @@
+{
+    "123": [
+        {"measure": "Creatinine", "patient_measure": 1.2}
+    ],
+    "456": [
+        {"measure": "Creatinine", "patient_measure": 0.8}
+    ]
+}

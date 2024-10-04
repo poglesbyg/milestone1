@@ -1,0 +1,3 @@
+patient_id,first_name,last_name,sex,age,mobile_number
+123,John,Doe,M,45,555-1234
+456,Jane,Smith,F,50,555-5678
